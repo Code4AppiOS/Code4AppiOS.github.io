@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kengsir.com/iOS/index.html</loc>
+    
+    <lastmod>2017-01-08T08:19:04.195Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kengsir.com/categories/iOS/index.html</loc>
+    
+    <lastmod>2017-01-08T08:19:04.195Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kengsir.com/JavaScript/index.html</loc>
+    
+    <lastmod>2017-01-08T08:18:57.233Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kengsir.com/categories/JavaScript/index.html</loc>
+    
+    <lastmod>2017-01-08T08:18:57.233Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kengsir.com/PHP/index.html</loc>
+    
+    <lastmod>2017-01-08T08:18:36.775Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kengsir.com/categories/PHP/index.html</loc>
+    
+    <lastmod>2017-01-08T08:18:36.775Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kengsir.com/categories/index.html</loc>
     
     <lastmod>2017-01-08T07:59:12.043Z</lastmod>
